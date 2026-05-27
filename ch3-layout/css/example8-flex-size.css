@@ -23,3 +23,10 @@ div[class^=box]{
     flex:1
 }
 
+.box6 {
+   flex: 2; 
+}
+
+.box3 {
+    flex: initial;
+}
